@@ -1,2 +1,2 @@
 # spring-vue-starter
-# fork and start development
+spring + vue + mongo
